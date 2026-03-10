@@ -22,11 +22,11 @@ class _QuizScreenState extends State<QuizScreen> {
       });
     }
   }
-  void _previousQuestion(){
-    if(_currentIndex > 0){
-      setState(())
-    }
-  }
+  // void _previousQuestion(){
+  //   if(_currentIndex > 0){
+  //     setState(())
+  //   }
+  // }
 
   @override
   Widget build(BuildContext context) {
